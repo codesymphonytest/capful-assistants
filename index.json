@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "agents": [
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-01-25",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "synthetic-survey-data",
+      "meta": {
+        "avatar": "👥",
+        "description": "I simulate experts and responders in survey questions, and can generate expert answers for surveys and interviews on different topics.",
+        "tags": ["scenarios"],
+        "title": "Synth Surveys",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-05-21",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "survey-analysis-general",
+      "meta": {
+        "avatar": "📋",
+        "description": "I can categorize and analyze qualitative data from all types of surveys. I identify key themes, create meaningful categories, and provide strategic insights from your responses.",
+        "tags": ["surveys","analysis","qualitative","strategy","data processing"],
+        "title": "Survey Analysis",
+        "category": "general"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-05-21",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "scenario-description-tool",
+      "meta": {
+        "avatar": "🌎",
+        "description": "I transform collections of uncertainty outcomes into comprehensive scenario descriptions that span global, national, regional, and industry levels.",
+        "tags": ["scenarios","foresight","strategic planning","future analysis"],
+        "title": "Scenario Writer",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-05-21",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "change-factor-tool",
+      "meta": {
+        "avatar": "🔍",
+        "description": "I identify critical trends and uncertainties for comprehensive scenario development.",
+        "tags": ["scenarios","driving forces","uncertainties","trends","foresight"],
+        "title": "Change Factors",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-05-21",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "change-vector-framework",
+      "meta": {
+        "avatar": "🧭",
+        "description": "I conduct systematic analysis of change factors and uncertainties for strategic planning across six dimensions.",
+        "tags": ["uncertainty","change factors","strategic analysis","foresight"],
+        "title": "Change Background",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-05-21",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "scenario-point-comparison",
+      "meta": {
+        "avatar": "🟢",
+        "description": "I analyze multiple scenario narratives to create a comprehensive comparison matrix.",
+        "tags": ["scenarios","comparison","analysis","strategic planning"],
+        "title": "Scenario Points",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-05-21",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "scenario-seed-development-tool",
+      "meta": {
+        "avatar": "🌱",
+        "description": "I develop comprehensive scenario seeds for strategic planning by analyzing uncertainties and their outcomes.",
+        "tags": ["scenarios","strategy","foresight","strategic planning","uncertainty"],
+        "title": "Scenario Seeds",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-05-21",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "scenario-timeline-tool",
+      "meta": {
+        "avatar": "📅",
+        "description": "I create detailed timelines for scenarios from the present to a future scenario's end-state.",
+        "tags": ["scenarios","timeline","future analysis","development paths"],
+        "title": "Scenario Timeline",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-05-21",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "uncertainty-outcome-background",
+      "meta": {
+        "avatar": "📚",
+        "description": "I provide expert analysis on the historical development and current state of your chosen subject.",
+        "tags": ["uncertainty","historical analysis","expertise","foresight","background"],
+        "title": "Uncert Background",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-05-21",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "uncertainty-outcome-tool",
+      "meta": {
+        "avatar": "🧩",
+        "description": "I create strategically valuable uncertainty outcomes for scenario planning projects.",
+        "tags": ["scenarios","uncertainty","foresight","strategic planning"],
+        "title": "Uncertain Outcome",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-05-21",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "ai-scenario-databank",
+      "meta": {
+        "avatar": "📁",
+        "description": "I'm an AI-assisted scenario databank. You can ask me to identify relevant Scenarios from different subjects that Capful has done.",
+        "tags": ["scenarios","database","information","reference","research"],
+        "title": "Scenario Bank",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-06-19",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "scenario-collase-designer",
+      "meta": {
+        "avatar": "🖼️",
+        "description": "I transform scenarios into collase scenes that executives can quickly understand.",
+        "tags": ["scenarios","visualization","executive engagement","foresight","strategic planning"],
+        "title": "Scenario Collase",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2024-06-20",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "ai-ambassador",
+      "meta": {
+        "avatar": "🕵️",
+        "description": "I check student answers for correctly identified 'needles' hidden in Shell's 2023 FY report, providing feedback on how many discrepancies they've discovered.",
+        "tags": ["education","analysis","verification"],
+        "title": "AI Ambassador",
+        "category": "education"
+      },
+      "schemaVersion": 1
+    },
+    {
+      "author": "Pietari Pikkuaho",
+      "createdAt": "2025-01-01",
+      "homepage": "www.linkedin.com/in/pietaripikkuaho",
+      "identifier": "change-background-summary",
+      "meta": {
+        "avatar": "📊",
+        "description": "Transforms detailed change factor analyses into consultant-friendly narratives that explain how industries and systems actually work.",
+        "tags": ["analysis", "consulting", "scenarios", "industry", "change factors", "background", "foresight"],
+        "title": "Change Background Summary",
+        "category": "scenario"
+      },
+      "schemaVersion": 1
+    }
+  ],
+
+  "tags": [
+    "writing","programming","translation","code","consulting","Writing",
+    "teaching","education","prompt","analysis","qualitative","strategy",
+    "communication","software-development","copywriting","development",
+    "typescript","creative","design","assistant","ai-assistant",
+    "research","expert","react","java-script","guidance","coding",
+    "Education","vocabulary","editing","english","language",
+    "proofreading","python","explanation","Copywriting","creativity",
+    "ai","User Experience","academic","learning","conversation","game",
+    "productivity","reasoning","Translation","Consultation","art",
+    "software","image-generation","optimization","it","humor",
+    "algorithm","consultation","Programming","stable-diffusion","English",
+    "agulu","summary","problem solving","seo","testing","ecommerce",
+    "assessment","english-conversation","software development","Designer",
+    "Documentation","Guidance","code optimization","Xiaohongshu","drawing",
+    "reading","software-engineering","project-management","problem-solving",
+    "Expert","advice","message-composition","thinking","next-js",
+    "web-development","correction","css","entrepreneurship","naming",
+    "mentoring","game-development","music","lobe-chat","conversion",
+    "evaluation","lyrics","markdown","assistance","interaction",
+    "deployment","feedback","language-proficiency","language-coaching",
+    "conversation-partner","frontend","scenarios","surveys","data processing",
+    "strategy","foresight","strategic planning","future analysis","uncertainty",
+    "historical analysis","expertise","background","driving forces","uncertainties",
+    "trends","change factors","strategic analysis","comparison","timeline",
+    "development paths","database","information","reference","visualization",
+    "executive engagement","verification","consulting","industry"
+  ]
+}
