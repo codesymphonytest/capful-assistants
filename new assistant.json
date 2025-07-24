@@ -1,0 +1,10 @@
+{
+  "identifier": "new assistant",
+  "meta": {
+    "title": "test",
+    "description": "test",
+    "avatar": "🤖",
+    "tags": [],
+    "category": "general"
+  }
+}
